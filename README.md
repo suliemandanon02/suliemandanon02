@@ -10,8 +10,8 @@ I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross P
 ### Connect with me
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suliemandanon/)
-[![Mail Badge](https://img.shields.io/badge/-mawad10101@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:suliemandanon0@gmail.com)
-[![](https://komarev.com/ghpvc/?username=astadk&color=blue&label=Profile%20Views)](https://github.com/mawadSur)
+[![Mail Badge](https://img.shields.io/badge/-suliemandanon0@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:suliemandanon0@gmail.com)
+[![](https://komarev.com/ghpvc/?username=astadk&color=blue&label=Profile%20Views)](https://github.com/suliemandanon02)
 
 
 ### Languages
