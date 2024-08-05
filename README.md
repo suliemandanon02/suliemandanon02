@@ -2,7 +2,9 @@
 👋 Hey! I'm Sulieman Danon
 </h1>
 
-I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at <a href="https://vndigitech.com/en/">Warner Media</a>, where I made major updates to <a href="https://nba.com/"> nba.com, <a href="https://hbomax.com/"> HBOMax.com and <a href="https://max.com/"> Max.com. I updated my skills in building robust and innovative web solutions. <p> If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
+ <p> I am Sulieman Danon, a dynamic and versatile Full Stack Web Developer with a passion for creating innovative and robust web solutions. With a strong background in Information Science and Web Development, I have honed my skills to excel in both web and mobile cross-platform application development. My work demonstrates my ability to handle complex, large-scale projects with ease. I am committed to continuous learning and staying at the forefront of technology, making me a valuable asset to any development team. I am always open to discussing exciting development opportunities and connecting with fellow developers to drive innovation and technology forward.
+
+ </p>
 
 <!-- <div style="display: flex; justify-content: space-between">
   <div style="width: 60%"> -->
